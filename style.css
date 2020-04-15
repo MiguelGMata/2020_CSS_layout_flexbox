@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.8;
+}
+
+
+}
+
+#header {
+    width: 50vw;
+    height: 10vh;
+    background: rgb(243, 243, 245);
+    padding-left: 5%;
+    
+}
+#container{
+    width: 100vw;
+    height: 40vh;
+    padding: 5% 5%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: rgb(144, 144, 145);
+}
+#section_1 {  
+    width: 30vw;
+    height: 30vh;
+    padding-left: 5%;
+    background: red;
+}
+#section_2 {  
+    width: 30vw;
+    height: 30vh;
+    padding-left: 5%;
+    background: green
+}
+#section_3 {  
+    width: 30vw;
+    height: 30vh;
+    padding-left: 5%;
+    background: blue
+}
+
+footer{
+    padding-left: 5%;
+    background: rgb(76, 77, 76);
+}
